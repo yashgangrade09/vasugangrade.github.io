@@ -1,0 +1,17 @@
+---
+title: Local Linear Ensembles
+popupTitle: Classification of N-Dimensional Data using combination of Linear Classifiers
+subtitle: Machine Learning
+layout: default
+modal-id: 4
+date: 2014-07-15
+img: lle.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: Aug 2017 - Dec 2017
+client: Start Bootstrap
+category: Machine Learning
+github: Latest Release
+link: https://github.com/yashgangrade09/Local-Linear-Ensembles.git
+description: Built a system which utilizes a combination of multiple Linear Classifiers to classify N-Dimensional spatial data. Classification accuracies improved by 5-20 percent as compared to a single classifier. 
+---

@@ -1,0 +1,17 @@
+---
+title: SimpleDB
+popupTitle: Development of a Novel Database system - SimpleDB
+subtitle: Database Development
+layout: default
+modal-id: 2
+date: 2014-07-15
+img: simpledb.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: Sept 2018 - Dec 2018
+client: Start Bootstrap
+category: Database Development
+github: Latest Release
+link: https://github.com/spence521/SimpleDB.git
+description: Working on creating a novel Database System from scratch. Implementing support modules like Buffer Management Engine, Disk Based Bplus tree indexing engine, query optimizers, support for join, union etc. Implementation in Java.
+---

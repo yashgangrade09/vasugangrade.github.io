@@ -1,0 +1,17 @@
+---
+title: Cognitive Radio
+popupTitle: Distributed Learning and Adaptation in Cognitive Radio
+subtitle: Distributed Learning
+layout: default
+modal-id: 5
+date: 2014-07-15
+img: distributed.png
+thumbnail: distributedThumb.png
+alt: image-alt
+project-date: Apr 2016 - Apr 2017
+client: Start Bootstrap
+category: Distributed Learning
+github: Latest Release
+link: https://github.com/yashgangrade09/Compression-of-Neural-Networks.git
+description: Designed a system with Channel Selection and Access which can effectively adapt to a wide range of traffic load patterns in the primary network. A distributed learning and access policy along with a game theory approach was employed. Implemented in C.
+---

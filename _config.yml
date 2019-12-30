@@ -1,0 +1,96 @@
+url: https://yashgangrade09.github.io
+# url: https://www.yashgangrade09.com
+# baseurl: /agency-jekyll-theme/
+# Site settings
+title: Yash Gangrade
+email: yashgangrade09@gmail.com
+description: "Hi, I am Yash Gangrade. I am currently a Master of Science Scholar in School of Computing at the University of Utah. 
+In past, I have worked at Symantec Corporation, Samsung Research Institute and Parliament of India as Software Engineering Intern. I am actively looking for Full Time jobs in Software Engineering and Development starting from May 2019."
+
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+groups:
+- name: ArIES
+  pic: aries
+  position: Coordinator
+  social:
+    - title: facebook
+      url: https://www.facebook.com/groups/ariesiitr/
+    - title: globe
+      url: http://ariesiitr.com/
+
+- name: IEEE Students Chapter
+  pic: ieee
+  position: Member
+  social:
+    - title: facebook
+      url: https://www.facebook.com/groups/141305179222449/
+    - title: globe
+      url: http://www.ieeeiitr.com/
+
+- name: Geek Gazette
+  pic: gg
+  position: Lead Graphic Designer
+  social:
+    - title: facebook
+      url: https://www.facebook.com/geekgazette/
+    - title: globe
+      url: https://geekgazette.org/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/gangrade/
+  - title: facebook
+    url: https://www.facebook.com/gangrade.yash
+  - title: file-pdf-o
+    url: https://goo.gl/9XfxWk
+  - title: envelope
+    url: mailto:yashgangrade09@gmail.com
+  - title: github
+    url: https://github.com/yashgangrade09/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
